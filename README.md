@@ -3,8 +3,11 @@
 </div>
 
 
-
 - 👋 Hi, I’m Alex
+- I’m a computer engineer specialised in mobile tech. development. In a nutshell, I architect and build Apps for iOS and Android using native or hybrid tech. 💻 📲 
+- Welcome to my playground 👾
+
+- *There is nothing more significant than to create, innovate and find the best and brightest solution. There are a lot of tough engineering problems to be solved and I really do love a good challenge.
 
 
 <!---
